@@ -1,3 +1,2 @@
 # This is a mock api
-
-https://github.com/MuskanAggarwal3404/RandomApi/MOCK_DATA.json
+https://muskanaggarwal3404.github.io/RandomApi/MOCK_DATA.json
